@@ -10,10 +10,10 @@ sidebar:
 
     # Sidebar links
     email: jyoung0696@gmail.com
-    phone: 626 861 8191
+    phone: 626 626 0656
     timezone: Pacific Time
     citizenship: US
-    website: iterating.github.io/cv-it #do not add http://
+    website: CypherPhonk.github.io/cv-it #do not add http://
     linkedin: 
     xing: 
     github: CypherPhonk
@@ -31,7 +31,6 @@ sidebar:
       info:
       - idiom: English
           level: Native
-          
       - idiom: Chinese
           level: Professional
 
@@ -39,8 +38,7 @@ sidebar:
       title: Interests
       info:
         - item: Photography
-          link:
-https://github.com/CypherPhonk/cv-it.git{}
+          link: https://github.com/CypherPhonk/cv-it.git
         - item: Fitness
           link:
 
