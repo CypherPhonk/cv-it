@@ -30,9 +30,9 @@ sidebar:
       title: Languages
       info:
       - idiom: English
-          level: Native
+        level: Native
       - idiom: Chinese
-          level: Professional
+        level: Professional
 
     interests:
       title: Interests
