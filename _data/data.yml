@@ -133,8 +133,11 @@ skills:
 
       - name: Linux/Apache/MySQL/PHP
 
-      - name: Red Hat System Administration
+      - name: Red Hat System Administration (RHCSA)
               170-077-016
+              
+      - name: Data storage- RAID, Debian Timeshift, rsnapshot, Backblaze, Carbonite
+
 
 
 
